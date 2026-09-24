@@ -1,0 +1,6 @@
+{
+  "name": "Battle of Heroes - 2D Fighting Game",
+  "description": "Dynamic, high-impact browser 2D fighting game featuring 8 unique heroes, custom weapons, devastating combos, and atmospheric arenas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
